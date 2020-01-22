@@ -1,0 +1,4 @@
+#Wed Jan 22 22:00:27 EET 2020
+base.0=/Users/user/Project/flutter/gd_home_01/gd_home_01/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
